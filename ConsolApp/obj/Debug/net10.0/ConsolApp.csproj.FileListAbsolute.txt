@@ -1,0 +1,40 @@
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.deps.json
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.runtimeconfig.json
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/Application.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/Domain.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/Application.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/bin/Debug/net10.0/Domain.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.AssemblyReference.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.AssemblyInfoInputs.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.AssemblyInfo.cs
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.CoreCompileInputs.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.Up2Date
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/refint/ConsolApp.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.genruntimeconfig.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/ConsolApp/obj/Debug/net10.0/ref/ConsolApp.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.deps.json
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.runtimeconfig.json
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/ConsolApp.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/Application.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/Domain.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/Application.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/bin/Debug/net10.0/Domain.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.AssemblyInfo.cs
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.csproj.Up2Date
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/refint/ConsolApp.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ConsolApp.genruntimeconfig.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/ConsolApp/obj/Debug/net10.0/ref/ConsolApp.dll

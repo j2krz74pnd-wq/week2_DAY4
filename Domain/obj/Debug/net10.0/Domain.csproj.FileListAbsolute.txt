@@ -1,0 +1,22 @@
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/bin/Debug/net10.0/Domain.deps.json
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/bin/Debug/net10.0/Domain.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/bin/Debug/net10.0/Domain.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/refint/Domain.dll
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/Domain.pdb
+/Users/a12345/Desktop/C#-kurs/week2/d4/Domain/obj/Debug/net10.0/ref/Domain.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/bin/Debug/net10.0/Domain.deps.json
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/bin/Debug/net10.0/Domain.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/bin/Debug/net10.0/Domain.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/refint/Domain.dll
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/Domain.pdb
+/Users/shahrom/Desktop/C#/Week 2/d4/Domain/obj/Debug/net10.0/ref/Domain.dll
